@@ -1,0 +1,1 @@
+Dieses Projekt ist ein objektorientiertes Java-Programm, das eine Verwaltung für Studenten, ihre Anmeldedaten, Kurse, Kreditpunkte und Schulstandorte bereitstellt. Es ermöglicht Studenten, sich mit Benutzername und Passwort anzumelden, Kurse auszuwählen und basierend auf dem Standort eine Studiengebühr zu berechnen
